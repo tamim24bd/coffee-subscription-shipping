@@ -1,4 +1,4 @@
-# 📘 Fix Shipping Churn - eBook
+# 📘 Fix London Coffee Logistics - eBook
 
 ## Shipping delays are quietly killing subscription businesses
 
